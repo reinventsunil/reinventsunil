@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reinventsunil
+- 👋 Hi, I’m Sunil
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Docker, Kubernetes, ML, NLP
 - 💞️ I’m looking to collaborate on backend
